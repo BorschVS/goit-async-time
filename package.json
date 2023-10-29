@@ -1,0 +1,20 @@
+{
+  "name": "goit-async-time",
+  "version": "1.0.0",
+  "description": "",
+  "path": "index.html",
+  "scripts": {
+    "start": "parcel src/*.html",
+    "build": "parcel build src/*.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.10.1"
+  },
+  "devDependencies": {
+    "parcel-reporter-clean-dist": "^1.0.4",
+    "posthtml-include": "^1.7.4"
+  }
+}
